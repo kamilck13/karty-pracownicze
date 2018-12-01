@@ -1,0 +1,12 @@
+C:\Users\Kamil\OneDrive\UJ\SOP\karty\karty\bin\Debug\karty.exe.config
+C:\Users\Kamil\OneDrive\UJ\SOP\karty\karty\bin\Debug\karty.exe
+C:\Users\Kamil\OneDrive\UJ\SOP\karty\karty\bin\Debug\karty.pdb
+C:\Users\Kamil\OneDrive\UJ\SOP\karty\karty\obj\Debug\karty.csprojAssemblyReference.cache
+C:\Users\Kamil\OneDrive\UJ\SOP\karty\karty\obj\Debug\karty.Form1.resources
+C:\Users\Kamil\OneDrive\UJ\SOP\karty\karty\obj\Debug\karty.Properties.Resources.resources
+C:\Users\Kamil\OneDrive\UJ\SOP\karty\karty\obj\Debug\karty.csproj.GenerateResource.cache
+C:\Users\Kamil\OneDrive\UJ\SOP\karty\karty\obj\Debug\karty.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\OneDrive\UJ\SOP\karty\karty\obj\Debug\karty.exe
+C:\Users\Kamil\OneDrive\UJ\SOP\karty\karty\obj\Debug\karty.pdb
+C:\Users\Kamil\OneDrive\UJ\SOP\karty\karty\bin\Debug\MySql.Data.xml
+C:\Users\Kamil\OneDrive\UJ\SOP\karty\karty\obj\Debug\karty.csproj.CopyComplete
